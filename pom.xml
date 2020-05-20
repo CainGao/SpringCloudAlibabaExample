@@ -22,6 +22,7 @@
     <modules>
         <module>nacos-config</module>
         <module>nacos-discovery-http</module>
+        <module>nacos-discovery-dubbo</module>
     </modules>
 
 	<properties>

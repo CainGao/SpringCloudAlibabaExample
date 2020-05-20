@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: true
+dubbo:
+  scan:
+    base-packages: top.anydata.products.web.example.nacos_discovery_dubbo_provider.service
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: spring-cloud://localhost
+  application:
+    qos-enable: true
+  cloud:
+    subscribed-services: /

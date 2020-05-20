@@ -11,7 +11,9 @@
 ##  项目结构
 ```lua
 SpringCloudAlibabaExample
-├── nacos-config -- nacos配置中心
+├── nacos-config            -- nacos配置中心
+├── nacos-discovery-http    -- nacos注册中心
+├── nacos-discovery-dubbo   -- nacos整合dubbo
 ```
 
 ##  公众号

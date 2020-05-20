@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: nacos-dubbo-provider
+  main:
+    allow-bean-definition-overriding: true
+  cloud:
+    nacos:
+      discovery:
+        enabled: true
+        register-enabled: true
+        server-addr: localhost:8848

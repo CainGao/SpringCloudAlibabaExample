@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: nacos-dubbo-consumer
+dubbo:
+  registry:
+    address: spring-cloud://localhost
+  cloud:
+    subscribed-services: nacos-dubbo-provider
+  application:
+    qos-enable: false
