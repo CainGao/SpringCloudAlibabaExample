@@ -23,6 +23,7 @@
         <module>nacos-config</module>
         <module>nacos-discovery-http</module>
         <module>nacos-discovery-dubbo</module>
+        <module>sentinel</module>
     </modules>
 
 	<properties>
