@@ -1,4 +1,4 @@
-package top.anydata.roducts.web.example.sentinel.flow.control.web.controller;
+package top.anydata.products.web.example.sentinel.flow.control.web.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

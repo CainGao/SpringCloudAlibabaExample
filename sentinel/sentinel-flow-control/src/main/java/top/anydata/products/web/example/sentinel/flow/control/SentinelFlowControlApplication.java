@@ -1,4 +1,4 @@
-package top.anydata.roducts.web.example.sentinel.flow.control;
+package top.anydata.products.web.example.sentinel.flow.control;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
