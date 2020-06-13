@@ -15,6 +15,7 @@
 
     <modules>
         <module>sentinel-flow-control</module>
+        <module>sentinel-nacos-conf</module>
     </modules>
 
 </project>
